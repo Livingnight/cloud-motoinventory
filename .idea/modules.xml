@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud/cloud.iml" filepath="$PROJECT_DIR$/cloud/cloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/cloud-motoinventory.iml" filepath="$PROJECT_DIR$/.idea/cloud-motoinventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/cloud-motoinventory.iml" filepath="$PROJECT_DIR$/cloud/cloud-motoinventory.iml" />
       <module fileurl="file://$PROJECT_DIR$/moto-discovery-service/moto-discovery-service.iml" filepath="$PROJECT_DIR$/moto-discovery-service/moto-discovery-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/moto-edge-service/moto-edge-service.iml" filepath="$PROJECT_DIR$/moto-edge-service/moto-edge-service.iml" />
     </modules>
